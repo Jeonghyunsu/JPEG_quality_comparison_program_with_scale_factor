@@ -8,5 +8,5 @@ You can not only see the difference in picture quality in the MFC program, but a
 
 In addition, you can check quantitative evaluation with PSNR.
 
-* Input Image: bmp, jpg
+* Input Image extension : bmp, jpg
 * scale factor of range: <1, 999>
